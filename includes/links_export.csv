@@ -1,0 +1,36 @@
+Title,Type,Category,Published,Source Page URL - (The page we are linking from),Outbound Link URL,Outbound Link Anchor,Incoming Link Page Source URL,Incoming Link Anchor
+"Blog post 1 Lorem",Post,"Advertisement, Blogpost, rss, Uncategorized","May 11, 2021",/localdev/blog-post-1/,/localdev/blog-post-2/,"Link to Blog post 2",/localdev/quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea/,"Could not retrieve anchor text, link is embedded"
+"Blog post 2",Post,"Blogpost, Uncategorized","May 11, 2021",/localdev/blog-post-2/,,,/localdev/blog-post-1/,"Link to Blog post 2"
+,,"Blogpost, Uncategorized",,/localdev/blog-post-2/,,,/localdev/test/,"etst"
+"Blog post 3",Post,"Advertisement, Blogpost, rss","May 11, 2021",/localdev/blog-post-3/,,,/localdev/quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea/,"Could not retrieve anchor text, link is embedded"
+"Test",Post,"Blogpost, Uncategorized","May 12, 2021",/localdev/test/,/localdev/blog-post-2/,"etst",/localdev/ac-ut-consequat-semper-viverra/,"Could not retrieve anchor text, link is embedded"
+,,"Blogpost, Uncategorized",,/localdev/test/,https://www.google.com/,"WebGoogleSite",,
+,,"Blogpost, Uncategorized",,/localdev/test/,https://www.facebook.com/,"fb",,
+"Ac ut consequat semper viverra",Post,"Advertisement, Blogpost, rss","May 13, 2021",/localdev/quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea/,/localdev/ac-ut-consequat-semper-viverra/,"Could not retrieve anchor text, link is embedded",,
+,,"Advertisement, Blogpost, rss",,/localdev/quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea/,/localdev/blog-post-3/,"Could not retrieve anchor text, link is embedded",,
+,,"Advertisement, Blogpost, rss",,/localdev/quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea/,/localdev/blog-post-1/,"Could not retrieve anchor text, link is embedded",,
+"Ut porttitor leo ContextutalPLugin",Post,"Blogpost","May 13, 2021",/localdev/ut-porttitor-leo/,,,,
+"Ac ut consequat semper viverra",Post,"Advertisement, Blogpost, rss, Uncategorized","May 13, 2021",/localdev/ac-ut-consequat-semper-viverra/,/localdev/pellentesque-dignissim-enim-sit-amet-v/,"sit amet",/localdev/quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea/,"Could not retrieve anchor text, link is embedded"
+,,"Advertisement, Blogpost, rss, Uncategorized",,/localdev/ac-ut-consequat-semper-viverra/,/localdev/pellentesque-dignissim-enim-sit-amet-v/,"Could not retrieve anchor text, link is embedded",,
+,,"Advertisement, Blogpost, rss, Uncategorized",,/localdev/ac-ut-consequat-semper-viverra/,/localdev/test/,"Could not retrieve anchor text, link is embedded",,
+,,"Advertisement, Blogpost, rss, Uncategorized",,/localdev/ac-ut-consequat-semper-viverra/,/localdev/pellentesque-dignissim-enim-sit-amet-v/,"Could not retrieve anchor text, link is embedded",,
+"Ipsummner",Post,"Blogpost","May 14, 2021",/localdev/ipsummner/,,,,
+"linkilo tutorialmatchone",Post,"Advertisement, Blogpost, rss","May 14, 2021",/localdev/linkilo/,,,,
+"Hello world!",Post,"Advertisement, Blogpost, rss","May 14, 2021",/localdev/hello-world/,,,/localdev/pellentesque-dignissim-enim-sit-amet-v/,"Could not retrieve anchor text, link is embedded"
+"Sample Page",Page,,"May 14, 2021",/localdev/sample-page/,/localdev/develop/,"Develop page",/localdev/develop/,"Sample Page"
+,,,,/localdev/sample-page/,/localdev/wp-admin/,"your dashboard",/localdev/lorem-page/,"Could not retrieve anchor text, link is embedded"
+"Privacy Policy",Page,,"May 14, 2021",/localdev/privacy-policy/,,,/localdev/lorem-page/,"Could not retrieve anchor text, link is embedded"
+"Develop page",Page,,"May 15, 2021",/localdev/develop/,/localdev/sample-page/,"Sample Page",/localdev/sample-page/,"Develop page"
+,,,,/localdev/develop/,,,/localdev/lorem-page/,"Could not retrieve anchor text, link is embedded"
+"Hello world clone",Post,"Uncategorized","May 15, 2021",/localdev/tutorialmatchone/,,,,
+"Lorem page",Page,,"May 19, 2021",/localdev/lorem-page/,/localdev/privacy-policy/,"Could not retrieve anchor text, link is embedded",,
+,,,,/localdev/lorem-page/,/localdev/develop/,"Could not retrieve anchor text, link is embedded",,
+,,,,/localdev/lorem-page/,/localdev/sample-page/,"Could not retrieve anchor text, link is embedded",,
+"Pellentesque dignissim enim sit amet v",Post,"Advertisement, Blogpost, rss","May 19, 2021",/localdev/pellentesque-dignissim-enim-sit-amet-v/,/localdev/hello-world/,"Could not retrieve anchor text, link is embedded",/localdev/ac-ut-consequat-semper-viverra/,"sit amet"
+,,"Advertisement, Blogpost, rss",,/localdev/pellentesque-dignissim-enim-sit-amet-v/,,,/localdev/ac-ut-consequat-semper-viverra/,"Could not retrieve anchor text, link is embedded"
+,,"Advertisement, Blogpost, rss",,/localdev/pellentesque-dignissim-enim-sit-amet-v/,,,/localdev/ac-ut-consequat-semper-viverra/,"Could not retrieve anchor text, link is embedded"
+"Blog posts",Page,,"May 21, 2021",/localdev/blog-posts/,,,,
+"Home",Page,,"May 21, 2021",/localdev/,,,,
+"Pellentesque dignissim enim sit amet vPellentesque dignissim enim sit amet vPellentesque dignissim enim sit amet v",Post,"Uncategorized","May 29, 2021",/localdev/pellentesque-dignissim-enim-sit-amet-vpellentesque-dignissim-enim-sit-amet-vpellentesque-dignissim-enim-sit-amet-v/,,,,
+"Groove post",Post,"Uncategorized","May 29, 2021",/localdev/groove-post/,,,,
+"Linkilo Test blank post content",Post,"Uncategorized","June 02, 2021",/localdev/linkilo-test-blank-post-content/,,,,

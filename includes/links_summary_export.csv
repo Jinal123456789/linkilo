@@ -1,0 +1,15 @@
+Title,URL,Type,Category,Published,Incoming Inner URLs,Outgoing Inner URLs,Outgoing Outer URLs
+"5 UX Principles for Creating a Great Website",/localdev/5-ux-principles-for-creating-a-great-website/,Post,"Blogpost","January 13, 2020",2,0,0
+"Web Design Trends for 2020",/localdev/web-design-trends-for-2020/,Post,"Blogpost","January 13, 2020",1,0,0
+"A Simple Guide to Design Thinking advertisement",/localdev/a-simple-guide-to-design-thinking/,Post,"Blogpost","January 13, 2020",0,1,2
+"Hello world!",/localdev/hello-world-2/,Post,"Blogpost","March 01, 2021",0,3,3
+"Sample Lorem Page",/localdev/sample-lorem-page/,Post,"Blogpost","April 28, 2021",1,1,1
+"Hello world!",/localdev/hello-world/,Post,"Blogpost","May 03, 2021",0,0,0
+"Sample Page",/localdev/sample-page/,Page,,"May 03, 2021",0,1,0
+"Privacy Policy",/localdev/privacy-policy/,Page,,"May 03, 2021",0,0,0
+"Home",/localdev/,Page,,"May 07, 2021",0,0,0
+"Blog",/localdev/blog/,Page,,"May 07, 2021",0,0,0
+"Advertisement 1 design",/localdev/advertisement-1/,Post,"Advertisement","May 07, 2021",0,0,1
+"Advertisement 2 design",/localdev/advertisement-2/,Post,"Advertisement","May 07, 2021",0,0,1
+"Rss feed 1",/localdev/rss-feed-1/,Post,"rss","May 07, 2021",1,0,0
+"WebGoogleSite",/localdev/webgooglesite/,Post,"Advertisement","May 07, 2021",0,0,1
